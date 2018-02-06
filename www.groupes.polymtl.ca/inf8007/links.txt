@@ -1,0 +1,11 @@
+http://www.groupes.polymtl.ca/inf8007/tests.pdf
+http://www.groupes.polymtl.ca/inf8007/numpy.pdf
+http://www.groupes.polymtl.ca/inf8007/similarite_de_textes.pdf
+http://www.diveintopython3.net/unit-testing.html
+http://www.groupes.polymtl.ca/inf8007/#td1
+http://www.groupes.polymtl.ca/inf8007/serveurs.pdf
+http://www.groupes.polymtl.ca/inf8007/frontend.pdf
+http://www.diveintopython3.net/xml.html
+http://www.groupes.polymtl.ca/inf8007/#td2
+http://www.groupes.polymtl.ca/inf8007/#td3
+http://www.groupes.polymtl.ca/inf8007/#weeks
