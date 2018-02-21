@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>TD3 | INF8007</title>
+
+    <!-- CSS dependencies -->
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+          crossorigin="anonymous">
+</head>
+<body class="container">
+<div id="app">
+
+    <h1 class="page-header">Les cours qui vous correspondent</h1>
+    <form class="form-inline" @submit.prevent="runSearch">
+        <div class="form-group">
+            <label for="acronymInput">Sigle du cours</label>
+            <input id="acronymInput" v-model="acronymInput" class="form-control" required>
+        </div>
+        <div class="form-group">
+            <label for="lengthInput">Nombre d’éléments</label>
+            <input type="number" id="lengthInput" v-model="lengthInput" class="form-control">
+        </div>
+        <div class="checkbox">
+            <label for="sortInput">
+                <input type="checkbox" id="sortInput" v-model="sortInput"> Trier les données
+            </label>
+        </div>
+        <input type="submit" @click.prevent="runSearch" class="btn btn-default">
+    </form>
+    <h2>Resultat
+        <span v-if="reloading"> — chargement en cours</span>
+        <span v-if="error"> — une erreur est survenu</span>
+    </h2>
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Sigle</th>
+            <th>Correspondence (ratio)</th>
+            <th>Description</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr v-for="course in courseList">
+            <td>{{ course.acr }}</td>
+            <td>{{ course.val }}</td>
+            <td>{{ course.desc }}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- JS dependencies -->
+<script src="https://unpkg.com/vue"></script>
+
+<!-- JS main script -->
+<script>
+    var app = new Vue({
+        el: '#app',
+        data: {
+            acronymInput: "INF8007",
+            lengthInput: 10,
+            sortInput: true,
+            courseList: [],
+            reloading: false,
+            error: false
+        },
+        methods: {
+            runSearch: function (event) {
+                this.reloading = true;
+                var self = this;
+                var request = new XMLHttpRequest();
+                var url = 'http://localhost:8765/' +
+                    '?acronym=' + encodeURIComponent(this.acronymInput) +
+                    '&length=' + this.lengthInput +
+                    '&sort=' + this.sortInput;
+
+
+                request.open('GET', url, true);
+
+                request.onload = function() {
+                    self.courseList = JSON.parse(request.responseText).data;
+                    self.reloading = false;
+                };
+
+                request.onerror = function () {
+                    self.reloading = false;
+                    self.error = true;
+                }
+                request.send();
+            }
+        }
+    })
+</script>
+</body>
+</html>

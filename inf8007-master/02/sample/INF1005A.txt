@@ -1,0 +1,2 @@
+TitreCours: Programmation procedurale
+DescriptionCours: Environnement informatique : ordinateurs et peripheriques, systeme d'exploitation, gestion de fichiers. Resolution de problemes : strategie, role des algorithmes. Concepts et proprietes des algorithmes. Representation interne des donnees numeriques et caracteres. Le langage MATLAB : variables, types, structures de controle, fonctions et mode de passage des parametres. Methodologie de programmation : programmation structuree, raffinements successifs, analyse, environnement de programmation, tests et outils de correction.

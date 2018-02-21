@@ -1,0 +1,2 @@
+TitreCours: Langages de script 
+DescriptionCours: Caracteristiques des langages de script. Principaux langages et domaines d'application. Programmation avec un langage de script : syntaxe, structures de controle, structures de donnees, communication interprocessus et communication avec une base de donnees, modules clients et serveurs.

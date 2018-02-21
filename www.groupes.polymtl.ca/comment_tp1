@@ -1,0 +1,38 @@
+Commentaires
+------------
+- L'utilisation de re.split plutôt que re.findall aurait rendu les regex
+  beaucoup plus simple et est plus adapté à ce genre de tâche
+
+
+Résultats
+---------
+Train:
+1   /1  Programme a roulé sans modifications : Oui
+1   /1  Aucune différence entre les fichiers de solution : Oui
+        Nombre de textes séparés en syllables identiques : 8/11
+        Nombre de comptes de textes séparés en syllables identiques : 8/11
+        Nombre de textes séparés en mots identiques : 11/11
+        Nombre de comptes de textes séparés en mots identiques : 11/11
+        Nombre de textes séparés en phrases identiques : 11/11
+        Nombre de comptes de textes séparés en phrases identiques : 11/11
+4.5 /5  Nombre d'indices de Fleisch identiques : 8/11
+
+Test:
+1   /1  Programme a roulé sans modifications : Oui
+1   /1  Aucune différence entre les fichiers de solution : Oui
+        Nombre de textes séparés en syllables identiques : 8/11
+        Nombre de comptes de textes séparés en syllables identiques : 9/11
+        Nombre de textes séparés en mots identiques : 10/11
+        Nombre de comptes de textes séparés en mots identiques : 11/11
+        Nombre de textes séparés en phrases identiques : 10/11
+        Nombre de comptes de textes séparés en phrases identiques : 11/11
+4.5 /5  Nombre d'indices de Fleisch identiques : 9/11
+
+Commentaires : 2/2
+Organisation : 2/2
+Bonne connaissance de regex : 1/2
+Bonus efficacité : 0/2
+Bonus réutilisabilité : 1/2
+
+Total : 19/20
+

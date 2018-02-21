@@ -1,0 +1,187 @@
+Line 1
+------
+Syllables:
+It-is-a-truth-uni-ver-sal-ly-ac-knowl-edged-,-that-a-sin-gle-man-in-pos-ses-sion-of-a-good-for-tune-,-must-be-in-want-of-a-wife-.
+Total: 35
+
+Words:
+It-is-a-truth-universally-acknowledged-,-that-a-single-man-in-possession-of-a-good-fortune-,-must-be-in-want-of-a-wife-.
+Total: 26
+
+Sentences:
+It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
+Total: 1
+
+Total: 66.56038461538463
+
+
+Line 2
+------
+Syllables:
+All-hap-py-fam-i-lies-are-alike-;-each-un-hap-py-fam-i-ly-is-un-hap-py-in-its-own-way-.
+Total: 25
+
+Words:
+All-happy-families-are-alike-;-each-unhappy-family-is-unhappy-in-its-own-way-.
+Total: 16
+
+Sentences:
+All happy families are alike; each unhappy family is unhappy in its own way.
+Total: 1
+
+Total: 58.4075
+
+
+Line 3
+------
+Syllables:
+It-was-a-bright-cold-day-in-April-,-and-the-clocks-were-strik-ing-thir-teen-.
+Total: 18
+
+Words:
+It-was-a-bright-cold-day-in-April-,-and-the-clocks-were-striking-thirteen-.
+Total: 16
+
+Sentences:
+It was a bright cold day in April, and the clocks were striking thirteen.
+Total: 1
+
+Total: 95.42
+
+
+Line 4
+------
+Syllables:
+All-chil-dren-,-ex-cept-one-,-grow-up-.
+Total: 11
+
+Words:
+All-children-,-except-one-,-grow-up-.
+Total: 9
+
+Sentences:
+All children, except one, grow up.
+Total: 1
+
+Total: 94.30000000000001
+
+
+Line 5
+------
+Syllables:
+It-was-in-evitable-:-the-scent-of-bit-ter-al-monds-al-ways-re-mind-ed-him-of-the-fate-of-un-re-quit-ed-love-.
+Total: 28
+
+Words:
+It-was-inevitable-:-the-scent-of-bitter-almonds-always-reminded-him-of-the-fate-of-unrequited-love-.
+Total: 19
+
+Sentences:
+It was inevitable: the scent of bitter almonds always reminded him of the fate of unrequited love.
+Total: 1
+
+Total: 62.87631578947371
+
+
+Line 6
+------
+Syllables:
+Moth-er-died-to-day-.-Or-may-be-,-yes-ter-day-;-I-can-'t-be-sure-.
+Total: 20
+
+Words:
+Mother-died-today-.-Or-maybe-,-yesterday-;-I-can-'t-be-sure-.
+Total: 15
+
+Sentences:
+Mother died today.-Or maybe, yesterday; I can't be sure.
+Total: 2
+
+Total: 86.42250000000001
+
+
+Line 7
+------
+Syllables:
+All-this-hap-pened-,-more-or-less-.
+Total: 9
+
+Words:
+All-this-happened-,-more-or-less-.
+Total: 8
+
+Sentences:
+All this happened, more or less.
+Total: 1
+
+Total: 103.54
+
+
+Line 8
+------
+Syllables:
+What-are-men-to-rocks-and-moun-tain-s-?
+Total: 10
+
+Words:
+What-are-men-to-rocks-and-mountains-?
+Total: 8
+
+Sentences:
+What are men to rocks and mountains?
+Total: 1
+
+Total: 92.965
+
+
+Line 9
+------
+Syllables:
+And-so-we-beat-on-,-boats-against-the-cur-ren-t-,-borne-back-cease-less-ly-in-to-the-past-.
+Total: 23
+
+Words:
+And-so-we-beat-on-,-boats-against-the-current-,-borne-back-ceaselessly-into-the-past-.
+Total: 18
+
+Sentences:
+And so we beat on, boats against the current, borne back ceaselessly into the past.
+Total: 1
+
+Total: 80.46500000000002
+
+
+Line 10
+------
+Syllables:
+You-have-brains-in-your-head-.-You-have-feet-in-your-shoes-.-You-can-steer-your-self-any-di-rec-tion-you-choose-.-You-'re-on-your-own-.-And-you-know-what-you-know-.-And-YOU-are-the-one-who-'ll-de-cide-where-to-go-...
+Total: 52
+
+Words:
+You-have-brains-in-your-head-.-You-have-feet-in-your-shoes-.-You-can-steer-yourself-any-direction-you-choose-.-You-'re-on-your-own-.-And-you-know-what-you-know-.-And-YOU-are-the-one-who-'ll-decide-where-to-go-...
+Total: 48
+
+Sentences:
+You have brains in your head.-You have feet in your shoes.-You can steer yourself any direction you choose.-You're on your own.-And you know what you know.-And YOU are the one who'll decide where to go...
+Total: 6
+
+Total: 107.06500000000001
+
+
+Line 11
+------
+Syllables:
+All-that-is-gold-does-not-glit-ter-,-Not-all-those-who-wan-der-are-lost-;-The-old-that-is-strong-does-not-with-er-,-Deep-roots-are-not-reached-by-the-frost-.
+Total: 37
+
+Words:
+All-that-is-gold-does-not-glitter-,-Not-all-those-who-wander-are-lost-;-The-old-that-is-strong-does-not-wither-,-Deep-roots-are-not-reached-by-the-frost-.
+Total: 34
+
+Sentences:
+All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost.
+Total: 1
+
+Total: 80.26029411764709
+
+

@@ -1,0 +1,2 @@
+TitreCours: Programmation orientee objet
+DescriptionCours: Classes et objets. Constructeurs et destructeurs. Allocation dynamique. Conversions de types. Surcharge d'operateur. Classes et methodes generiques. Heritage simple et heritage multiple. Classes abstraites. Polymorphisme. Algorithmes fondamentaux : recherches lineaire et dichotomique, tri simple. Bibliotheque de structures de donnees et algorithmes. Traitement des exceptions. Programmation par evenements. Notions elementaires de conception d'interfaces graphiques.

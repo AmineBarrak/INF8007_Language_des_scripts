@@ -1,0 +1,2 @@
+TitreCours: Histoire de l
+DescriptionCours: Fournir a l'etudiant les connaissances historiques elementaires de l'informatique. Permettre de mieux evaluer l'evolution actuelle et future du domaine. Les fondements de l'informatique avant l'apparition de l'ordinateur. Histoire des algorithmes. Les premiers ordinateurs: principes, architecture, developpement. Developpement de l'industrie informatique. Generations d'ordinateurs, de langages et d'interfaces. Types d'ordinateurs. Survol des grands domaines d'interet selon les periodes. Perspectives d'evolution future.
